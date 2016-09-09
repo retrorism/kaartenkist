@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="675"
+   height="900"
+   id="svg2"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="noot-half.svg"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="996"
+     id="namedview3233"
+     showgrid="false"
+     inkscape:zoom="0.52444445"
+     inkscape:cx="299.45477"
+     inkscape:cy="172.00078"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" /><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 0,0 540,0 540,720 0,720 0,0 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath><mask
+       id="mask100"><image
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAnCAAAAABWaisLAAAAAXNCSVQI5gpbmQAAAChJREFUSIntzKEBAAAIAyD1/5812xfhAHorbvKl0+l0Op1Op9PpdD4HvucBTbcMcZUAAAAASUVORK5CYII="
+         width="1"
+         height="1"
+         id="image102" /></mask></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,900)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath16)"
+         id="g14"><path
+           style="fill:#000000;stroke:#000000;stroke-width:2.51162505;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="M 349.625 443.875 L 342 444.25 L 334.375 444.75 L 326.75 445.625 L 319.125 446.875 L 311.625 448.25 L 304.125 450.125 L 296.75 452 L 289.5 454.375 L 282.25 457 L 275.375 459.75 L 268.5 462.875 L 261.875 466.25 L 255.5 469.75 L 249.25 473.5 L 243.25 477.5 L 237.625 481.75 L 232.125 486.125 L 227 490.75 L 222.25 495.375 L 217.625 500.375 L 213.5 505.375 L 209.625 510.625 L 206.125 515.875 L 203 521.25 L 200.25 526.75 L 197.875 532.25 L 195.75 537.875 L 194.25 543.5 L 193 549.125 L 192.125 554.75 L 191.75 560.5 L 191.625 566.125 L 192 571.625 L 192.75 577.25 L 192.625 577.25 L 193.875 582.75 L 195.375 588.125 L 197.375 593.375 L 199.625 598.5 L 202.375 603.625 L 205.5 608.5 L 208.875 613.25 L 212.625 617.875 L 216.75 622.25 L 221.25 626.5 L 226 630.5 L 231.125 634.25 L 236.5 637.875 L 242.125 641.125 L 248 644.25 L 254.125 647.125 L 260.5 649.75 L 267.125 652 L 273.875 654 L 280.875 655.75 L 288 657.25 L 295.25 658.375 L 302.625 659.375 L 310.125 659.875 L 317.625 660.25 L 325.25 660.25 L 332.875 660 L 340.5 659.375 L 348.125 658.5 L 355.625 657.375 L 363.25 655.875 L 370.75 654.125 L 378.125 652.125 L 385.375 649.75 L 392.5 647.25 L 399.5 644.375 L 406.25 641.375 L 413 638 L 419.375 634.375 L 425.625 630.625 L 431.625 626.625 L 437.25 622.5 L 442.75 618 L 447.875 613.5 L 452.625 608.75 L 457.125 603.875 L 461.375 598.75 L 465.25 593.625 L 468.75 588.375 L 471.875 582.875 L 474.625 577.5 L 477 571.875 L 479 566.375 L 480.625 560.75 L 481.875 555 L 482.75 549.375 L 483.125 543.75 L 483.25 538.125 L 482.875 532.5 L 482.125 527 L 480.875 521.5 L 479.375 516.125 L 477.5 510.75 L 475.125 505.625 L 472.375 500.625 L 469.375 495.625 L 466 490.875 L 462.125 486.375 L 458 481.875 L 453.625 477.75 L 448.75 473.625 L 443.75 469.875 L 438.375 466.375 L 432.75 463 L 426.75 459.875 L 420.625 457 L 414.25 454.5 L 407.625 452.125 L 400.875 450.125 L 393.875 448.375 L 386.75 446.875 L 379.625 445.75 L 372.25 444.75 L 364.75 444.25 L 357.25 443.875 L 349.625 443.875 z M 382.625 463.375 L 388.375 463.5 L 394 463.875 L 399.625 464.375 L 404.875 465.25 L 410.125 466.25 L 415 467.5 L 419.75 469 L 424.25 470.75 L 428.5 472.625 L 432.625 474.75 L 436.25 477 L 439.75 479.5 L 443 482.25 L 445.875 485.125 L 448.5 488.125 L 450.875 491.375 L 452.875 494.75 L 454.5 498.25 L 455.875 502 L 456.875 505.75 L 457.625 509.625 L 458 513.625 L 458 517.75 L 457.75 521.875 L 457.125 526.125 L 456.25 530.5 L 454.875 534.875 L 453.25 539.125 L 451.375 543.625 L 449.125 548.125 L 446.625 552.5 L 443.75 556.875 L 440.625 561.375 L 437.25 565.75 L 433.5 570 L 429.625 574.25 L 425.375 578.375 L 421 582.5 L 416.25 586.5 L 411.375 590.375 L 406.25 594.25 L 401 597.875 L 395.5 601.375 L 389.875 604.75 L 384.125 608 L 378.25 611 L 372.25 613.875 L 366.125 616.625 L 359.875 619.125 L 353.75 621.375 L 347.375 623.5 L 341.125 625.375 L 334.75 627.125 L 328.375 628.625 L 322.125 629.875 L 315.875 630.875 L 309.625 631.75 L 303.5 632.375 L 297.5 632.625 L 291.5 632.75 L 285.75 632.625 L 280.125 632.25 L 274.5 631.75 L 269.25 630.875 L 264 629.875 L 259.125 628.625 L 254.375 627.125 L 249.875 625.5 L 245.625 623.5 L 241.625 621.375 L 237.875 619.125 L 234.375 616.625 L 231.125 613.875 L 228.25 611 L 225.625 608 L 223.25 604.75 L 221.375 601.375 L 219.625 597.875 L 218.25 594.25 L 217.25 590.375 L 216.625 586.5 L 216.25 582.5 L 216.125 578.375 L 216.375 574.25 L 217.125 570 L 218 565.625 L 219.25 561.375 L 220.875 556.875 L 222.75 552.5 L 225 548 L 227.5 543.625 L 230.375 539.125 L 233.5 534.75 L 237 530.5 L 240.625 526.125 L 244.5 521.875 L 248.75 517.75 L 253.25 513.625 L 257.875 509.625 L 262.75 505.75 L 267.875 502 L 273.25 498.25 L 278.625 494.75 L 284.25 491.375 L 290 488.125 L 296 485.125 L 302 482.25 L 308 479.5 L 314.25 477 L 320.5 474.75 L 326.75 472.625 L 333.125 470.75 L 339.375 469 L 345.75 467.5 L 352.125 466.25 L 358.375 465.25 L 364.5 464.375 L 370.625 463.875 L 376.75 463.5 L 382.625 463.375 z "
+           id="path56"
+           transform="matrix(0.8,0,0,-0.8,0,720)" /><path
+           d="m 381.9,686.6 5,0 0,-401.5 -5,0 0,401.5 z"
+           inkscape:connector-curvature="0"
+           id="path38"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" /></g></g></g></svg>
